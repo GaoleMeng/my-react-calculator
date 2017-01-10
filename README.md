@@ -5,5 +5,7 @@ install node.js first
 ## Way to initalize:
 
 Install node.js to get npm
+
 npm install
+
 npm start
