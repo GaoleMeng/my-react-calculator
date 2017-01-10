@@ -9,3 +9,5 @@ Install node.js to get npm
 npm install
 
 npm start
+
+Go to localhost
